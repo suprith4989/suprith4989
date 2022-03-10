@@ -17,7 +17,7 @@
 
 
 [website]: https://suprith4989.github.io/
-[twitter]: https://twitter.com/Pyro46
+[twitter]: https://twitter.com/suprithG
 [linkedin]: https://www.linkedin.com/in/suprith-gangawar-1a2b4546/
 [ansible]: https://www.ansible.com/
 [vscode]: https://code.visualstudio.com/
